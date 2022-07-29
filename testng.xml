@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+     <!--  <class name="com.tideUS.testCases.TC003_SearchTest"/>
+      <class name="com.tideUS.testCases.TC007_LaundaryTest"/>
+      <class name="com.tideUS.testCases.TC005_ShopTest"/>
+      <class name="com.tideUS.testCases.TC006_LoadsofHopeTest"/>
+      <class name="com.tideUS.testCases.TC004_TakeThePledgeTest"/>
+      <class name="com.tideUS.testCases.TC008_RecoverPassword"/>
+      <class name="com.tideUS.testCases.TC001_SignupTest"/>
+      <class name="com.tideUS.testCases.BaseClass"/>
+      <class name="com.tideUS.testCases.TC009_LatestnewsTest"/>
+      <class name="com.tideUS.testCases.TC002_LoginTest"/> -->  
+      
+      <class name="com.tideUS.testCases.TestCases"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
